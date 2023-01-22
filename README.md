@@ -1,1 +1,1 @@
-TinDog Starting Files
+initial static banquet hall website
